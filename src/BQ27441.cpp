@@ -19,7 +19,7 @@ Arduino Uno (any 'duino should do)
 
 #include "Arduino.h"
 #include <Wire.h>
-#include "SparkFunBQ27441.h"
+#include "BQ27441.h"
 #include "BQ27441_Definitions.h"
 
 /*****************************************************************************

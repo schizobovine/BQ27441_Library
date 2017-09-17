@@ -18,8 +18,8 @@ SparkFun Battery Babysitter v1.0
 Arduino Uno (any 'duino should do)
 ******************************************************************************/
 
-#ifndef SparkFunBQ27441_h
-#define SparkFunBQ27441_h
+#ifndef BQ27441_h
+#define BQ27441_h
 
 #include "Arduino.h"
 #include "BQ27441_Definitions.h"
